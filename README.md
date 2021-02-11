@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-curl -L raw.githubusercontent.com/tighug/dotfiles/main/install.sh | zsh
+curl -L raw.githubusercontent.com/chocochip930/dotfiles/main/install.sh | zsh
 ```
 
 ## LICENSE
